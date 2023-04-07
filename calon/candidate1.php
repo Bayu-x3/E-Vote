@@ -81,7 +81,7 @@ $ready = $row['ready'];
 				<div class="card">
 					<img src="https://i.pinimg.com/originals/fd/ad/83/fdad83821e23d5e3b0b369c6cf58a453.jpg" class="card-img-top" alt="Candidate 1">
 					<div class="card-body">
-						<h5 class="card-title">2. Anos Voldigoad</h5>
+						<h5 class="card-title">1. Anos Voldigoad</h5>
 						<p class="card-text">Calon Kandidat Ketua OSIS Nomor 2 Periode 2030 / 2031</p>
       <a href="../kandidat.php" class="btn btn-secondary">Back</a>
 						<button class="btn btn-danger" name="submit">Vote</button>
