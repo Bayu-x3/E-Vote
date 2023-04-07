@@ -79,7 +79,7 @@ $ready = $row['ready'];
 				<div class="card">
 					<img src="https://imagecache.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b9f8cfb5-7eda-4f86-503b-a5907065d700/width=400/01309-3085518873-1girl,%20Mahiru%20Shiina,%20japanese%20clothing,%20roses,%20roses%20pattern,%20spoken%20heart,%20red%20ribbon,%20dress,%20%20facing%20viewer,%20valentines,%20love.png" class="card-img-top" alt="Candidate 1">
 					<div class="card-body">
-						<h5 class="card-title">1. Shiina Mahiru</h5>
+						<h5 class="card-title">3. Shiina Mahiru</h5>
 						<p class="card-text">Calon Kandidat Ketua OSIS Nomor 1 Periode 2030 / 2031</p>
       <a href="../kandidat.php" class="btn btn-secondary">Back</a>
 						<button class="btn btn-danger" name="submit">Vote</button>
